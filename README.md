@@ -32,7 +32,3 @@ These tools automate repetitive design tasks, streamline workflows, and connect 
 
 ---
 
-## Getting Started
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/YourUsername/solidworks-api-tools.git
